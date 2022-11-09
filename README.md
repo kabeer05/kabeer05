@@ -36,5 +36,8 @@
     <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
 </div>
 
+<br/>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kabeer05&theme=synthwave)
+<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kabeer05&theme=synthwave)
