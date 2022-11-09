@@ -22,8 +22,6 @@
 
 <p>I am a JavaScript enthusiast that enjoys creating online applications with cutting-edge technologies and frameworks. Currently learning full-stack web programming and building projects with React, Nodejs, Expressjs, MongoDB, Socket.io, and other technologies.</p>
 
-<br/>
-
 ## 🖥️ Skill Set
 
 <div>
@@ -37,3 +35,6 @@
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
 </div>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kabeer05&theme=synthwave)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kabeer05&theme=synthwave)
