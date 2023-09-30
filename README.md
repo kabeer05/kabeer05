@@ -7,12 +7,11 @@
 ╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚══════╝╚══════╝╚═╝░░╚═╝  ╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝
 ```
 
-<a href="https://www.codewars.com/users/kabeer05" target="_blank"><img src="https://www.codewars.com/users/kabeer05/badges/large" alt="Codewars Rank" /></a>
-
 <div>
     <a href="https://www.linkedin.com/in/kabeerarora05/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://twitter.com/KabeerArora9" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-    <a href="https://stackoverflow.com/users/16839859/mennis" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+    <a href="https://stackoverflow.com/users/16839859/kabeer-arora" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+    <a href="https://leetcode.com/kabeerarora/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
     <a href="mailto:kabeerarora05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
@@ -20,7 +19,7 @@
 
 ## 🤵 About Me
 
-<p>I am a JavaScript enthusiast that enjoys creating online applications with cutting-edge technologies and frameworks. Currently learning full-stack web programming and building projects with React, Nodejs, Expressjs, MongoDB, Socket.io, and other technologies.</p>
+<p>I am a JavaScript enthusiast that enjoys creating online applications with cutting-edge technologies and frameworks. Currently learning full-stack web programming and building projects with React, Nodejs, Expressjs, MongoDB, Socket.io, and other technologies. Currently learning Ethical Hacking.</p>
 
 ## 🖥️ Skill Set
 
